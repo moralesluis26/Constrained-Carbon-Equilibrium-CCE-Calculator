@@ -38,7 +38,8 @@ The CCE model was first developed by J.G. Speer et al. [1] [2] and termed "const
   <img src="https://github.com/moralesluis26/Constrained-Carbon-Equilibrium-CCE-Calculator/assets/46792756/070d3560-0857-44ac-9fa8-6e0bc49f4dd9" width="500" />
 </p>
 
-
+## Open in Colab
+Open in Colab to facilitate the calculations. 
 ## References
 
 [1]	J. G. Speer, A. M. Streicher, D. K. Matlock, F. Rizzo, and G. Krauss, “Quenching and partitioning: A fundamentally new process to create high strength trip sheet microstructures,” Mater. Sci. Technol. 2003 Meet., pp. 505–522, 2003.
