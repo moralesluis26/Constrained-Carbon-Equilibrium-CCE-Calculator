@@ -1,7 +1,7 @@
 # Constrained Carbon Equilibrium (CCE) Calculator
 
 ## Introduction
-The CCE model was first developed by J.G. Speer et al. [1] [2] and termed "constrained paraequilibrium" (CPE), but it is currently known as CCE. With this model, it is possible to predict the amount of carbon partitioned from supersaturated martensite to metastable austenite when the chemical potential of carbon between ferrite (or carbon-depleted martensite) and austenite is equal at a particular temperature. The final proportion of retained austenite and ferrite can also be predicted. It is used as a guide for the development of Advance High Strength Steel of the Third Generation (AHSS 3rd gen)
+The CCE model was first developed by J.G. Speer et al. [1] [2] and termed "constrained paraequilibrium" (CPE), but it is currently known as "constrained carbon equilibrium" (CCE). With this model, it is possible to predict the amount of carbon partitioned from supersaturated martensite to metastable austenite when the chemical potential of carbon between ferrite (or carbon-depleted martensite) and austenite is equal at a particular temperature. The final proportion of retained austenite and ferrite can also be predicted. It is used as a guide for the development of Advance High Strength Steel of the Third Generation (AHSS 3rd gen)
 
 ## Constraints 
 - One of the constraints imposed by the CCE model is that the number of iron (and substitutional) atoms is conserved in each phase during the partitioning process, which means a stationary α/γ interface (ferrite/austenite). With this consideration, a matter balance for iron is presented by the authors.
